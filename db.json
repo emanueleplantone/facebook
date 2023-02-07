@@ -1,1 +1,27 @@
-{'k': 'bhbh'}
+{
+  "posts": [
+    
+    
+    {
+      "autore": "Mario Rossi",
+      "testo": "testo1"
+    },
+    
+    {
+      "autore": "Giacomo Verdi",
+      "testo": "testo2"
+    },
+    
+    {
+      "autore": "Giamberto Bianchi",
+      "testo": "testo3"
+    }
+    
+    
+    
+    
+  ]
+  
+
+
+}
